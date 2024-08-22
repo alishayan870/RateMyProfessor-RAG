@@ -1,0 +1,124 @@
+{
+    "reviews": [
+        {
+          "professor": "Dr. Jane Smith",
+          "subject": "Computer Science",
+          "stars": 5,
+          "review": "Dr. Smith is an excellent professor. Her lectures are always engaging and she is very knowledgeable about the subject matter."
+        },
+        {
+          "professor": "Dr. Bruce Banner",
+          "subject": "Computer Science",
+          "stars": 4,
+          "review": "The workload for this class was a bit heavy, but Dr. Smith was always available to provide extra help and support."
+        },
+        {
+          "professor": "Dr. Yasin",
+          "subject": "Computer Science",
+          "stars": 3,
+          "review": "The material covered in this class was challenging, but Dr. Smith did her best to explain the concepts clearly."
+        },
+        {
+          "professor": "Dr. Bill",
+          "subject": "History",
+          "stars": 4,
+          "review": "Dr. Lee is a passionate and engaging lecturer. His classes are always interesting and informative."
+        },
+        {
+          "professor": "Dr. Robert Lee",
+          "subject": "History",
+          "stars": 4,
+          "review": "The grading in this class was fair, and Dr. Lee was always willing to provide feedback and guidance."
+        },
+        {
+          "professor": "Dr. Faizan Lee",
+          "subject": "History",
+          "stars": 3,
+          "review": "While the course material was interesting, the workload was a bit heavier than I expected."
+        },
+        {
+          "professor": "Dr. Samantha Kim",
+          "subject": "Biology",
+          "stars": 5,
+          "review": "Dr. Kim is an excellent professor who is passionate about the subject matter and truly wants her students to succeed."
+        },
+        {
+          "professor": "Dr. Shan Kim",
+          "subject": "Biology",
+          "stars": 4,
+          "review": "The labs for this class were challenging but informative. Dr. Kim provided plenty of support and guidance throughout."
+        },
+        {
+          "professor": "Dr. Vanessa Kim",
+          "subject": "Biology",
+          "stars": 3,
+          "review": "While the course material was interesting, the exams were quite difficult and the workload was heavy."
+        },
+        {
+          "professor": "Dr. Michael Johnson",
+          "subject": "Mathematics",
+          "stars": 5,
+          "review": "Dr. Johnson's lectures are always clear and engaging. He takes the time to ensure that everyone understands the material."
+        },
+        {
+          "professor": "Dr. Sarah Patel",
+          "subject": "Economics",
+          "stars": 4,
+          "review": "Dr. Patel is knowledgeable and passionate about the subject matter. She encourages class participation and provides helpful feedback."
+        },
+        {
+          "professor": "Dr. David Chen",
+          "subject": "Computer Science",
+          "stars": 4,
+          "review": "Dr. Chen is an excellent professor who is always willing to help students outside of class. The projects in this course were challenging but rewarding."
+        },
+        {
+          "professor": "Dr. Emily Gonzalez",
+          "subject": "Psychology",
+          "stars": 3,
+          "review": "While the course content was interesting, Dr. Gonzalez's lectures were sometimes disorganized and difficult to follow."
+        },
+        {
+          "professor": "Dr. William Nguyen",
+          "subject": "Physics",
+          "stars": 4,
+          "review": "Dr. Nguyen is a brilliant professor who is able to explain complex concepts in a clear and concise manner. The workload in this class was challenging but manageable."
+        },
+        {
+          "professor": "Dr. Olivia Hernandez",
+          "subject": "Art History",
+          "stars": 5,
+          "review": "Dr. Hernandez is passionate about the subject matter and truly cares about her students' success. The class discussions were always engaging and thought-provoking."
+        },
+        {
+          "professor": "Dr. Ethan Lee",
+          "subject": "History",
+          "stars": 3,
+          "review": "While Dr. Lee is knowledgeable about the subject matter, his lectures were often dry and difficult to stay engaged in. The grading in this class was also quite strict."
+        },
+        {
+          "professor": "Dr. Sophia Ramirez",
+          "subject": "Biology",
+          "stars": 4,
+          "review": "Dr. Ramirez is an excellent communicator who is able to break down complex concepts in a way that is easy to understand. The lab component of this class was also well-designed and informative."
+        },
+        {
+          "professor": "Dr. Alex Gonzalez",
+          "subject": "Political Science",
+          "stars": 5,
+          "review": "Dr. Gonzalez is a brilliant and engaging professor who is able to facilitate thought-provoking discussions on even the most complex political issues. I would highly recommend this class to anyone interested in the subject matter."
+        },
+        {
+          "professor": "Dr. Isabella Morales",
+          "subject": "Spanish",
+          "stars": 4,
+          "review": "Dr. Morales is a native Spanish speaker who is able to provide valuable insights into the language and culture. The class was challenging but rewarding, and I feel much more confident in my Spanish-speaking abilities after taking this course."
+        },
+        {
+          "professor": "Dr. Liam Nguyen",
+          "subject": "Computer Science",
+          "stars": 4,
+          "review": "Dr. Nguyen is a knowledgeable and approachable professor who is always willing to help students who are struggling with the material. The projects in this class were engaging and relevant to the real world."
+        }
+      ]
+    }
